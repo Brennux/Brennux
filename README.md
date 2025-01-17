@@ -30,7 +30,7 @@ Na maior parte do tempo, estou programando em Python, que é minha linguagem fav
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/Brennux">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
