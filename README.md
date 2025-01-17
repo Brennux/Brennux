@@ -2,11 +2,11 @@
 
 **`Desenvolvedor Back-End`**
 
-Sou apaixonado por tecnologia e hacker desde criança! Conserto computadores desde os 10 anos e crio software desde os 13 e foi nessa idade que criei uma cópia de um jogo online em um servidor local usando Java, PHP e MySQL. Gosto de desafios, livros, desenvolver novas tecnologias usando lógica e pensamento analítico.
+Sou apaixonado por tecnologia desde criança! Conserto computadores desde os 13 anos e foi com 18 que me apaixonei pelo Mundo da Programação. Gosto de desafios, livros, desenvolver novas tecnologias usando lógica e pensamento analítico.
 
-Tenho conhecimento em: Python, Go, Rust, Pandas, Docker, Kubernetes, MongoDB, Java, MySQL, Jupyter Notebook, Keras, TensorFlow, Django, scikit-learn, Servidores, AWS, GCP, Redes, Segurança cibernética, Red Team, HTML, CSS, Git, Linux, MacOS, Windows e SCRUM.
+Tenho conhecimento em: Python, django, JavaScript, Docker, MongoDB, MySQL, postgresql, Jupyter Notebook, Redes, HTML, CSS, Git, Windows.
 
-Na maior parte do tempo, estou programando em Python, que é minha linguagem favorita, e me aventurando em Go e Rust no meu tempo livre, essas duas linguagens são as que tenho aproveitado no momento. Minha paixão é me divertir programando, tocando violão, assistindo animes, lendo livros e artigos todos os dias.
+Na maior parte do tempo, estou programando em Python, que é minha linguagem favorita, e me aventurando em JavaScript no meu tempo livre, essas duas linguagens são as que tenho aproveitado no momento. Minha paixão é me divertir programando, tocando violão, jogando futebol, assistindo documentarios, lendo livros e artigos todos os dias.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
