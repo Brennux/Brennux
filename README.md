@@ -46,7 +46,7 @@ Na maior parte do tempo, estou programando em Python, que é minha linguagem fav
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-
+/>
     
 <img  
     align="left" 
