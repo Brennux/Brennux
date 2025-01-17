@@ -46,6 +46,16 @@ Na maior parte do tempo, estou programando em Python, que é minha linguagem fav
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+
+    
+<img  
+    align="left" 
+    alt="Angularjs"
+    title="ANgularjs" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+          
 />
 <img 
     align="left" 
@@ -72,6 +82,16 @@ Na maior parte do tempo, estou programando em Python, que é minha linguagem fav
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+
+  <img  
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+          
 
 <br/>
 <br/>
